@@ -1,0 +1,7 @@
+File Lokal 
+
+ Putar file audio lokal dengan mentransfernya ke folder ini. Pakai Finder di macOS atau iTunes di Windows/macOS untuk memilih file audio mana yang akan ditransfer ke app Spotify.
+
+Sesudah mengaktifkan File Lokal di Pengaturan Spotify, file audio yang disimpan di perangkat akan dicantumkan di playlist File Lokal di Koleksi Kamu. 
+
+Dengan memakai app Files perangkat ini, kamu bisa menyalin atau memindahkan file audio dari app lain ke app Spotify.
